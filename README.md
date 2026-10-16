@@ -1,7 +1,11 @@
 # CChess
 
-Jeu d'échecs complet développé en **C** avec interface graphique interactive via Raylib.
+Jeu d'échecs complet développé en **C** avec interface graphique interactive via [Raylib](https://www.raylib.com/).
 Le moteur intègre une intelligence artificielle basée sur l'algorithme **Minimax** avec **élagage Alpha-Bêta**, **recherche de tranquillité (Quiescence Search)** et tables d'évaluation positionnelle (**Piece-Square Tables**).
+
+<p align="center">
+  <img src="img/preview.png" alt="Aperçu de l'interface CChess" width="90%">
+</p>
 
 ---
 
