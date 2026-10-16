@@ -1,0 +1,11 @@
+# Executables and objects
+*.o
+*.exe
+chess
+obj/
+build/
+
+# Editor & OS files
+.vscode/
+.DS_Store
+Thumbs.db
